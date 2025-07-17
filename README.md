@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/johnneerdael-multiplatform-cursor-mcp-badge.png)](https://mseep.ai/app/johnneerdael-multiplatform-cursor-mcp)
+
 # Cursor MCP (Model Context Protocol)
 
 Cursor MCP is a bridge between Claude's desktop application and the Cursor editor, enabling seamless AI-powered automation and multi-instance management. It's part of the broader Model Context Protocol (MCP) ecosystem, allowing Cursor to interact with various AI models and services through standardized interfaces.
